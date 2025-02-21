@@ -24,7 +24,7 @@ Yellow light is displayed<br>
 <li>If state ==1;</li>
 Red light is displayed<br>
 <li>If state ==2;</li>
-Again Yellow light is displayed with another message<br>
+Again Yellow light is displayed with message ' Start your Engine!'<br>
 <li>If state ==3;</li>
 Green Light is displayed<br>
   </ul>
