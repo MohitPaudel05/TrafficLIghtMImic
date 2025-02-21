@@ -1,14 +1,14 @@
 <h1>Traffic Light Simulation </h1><br>
 <img src ="https://github.com/MohitPaudel05/TrafficLIghtMImic/blob/main/TrafficLight.jpg" width =50% height=50%>
-Simulating a Traffic Light Cycle Using C Programming <br>
-<h2>Objective</h2>
+This is a simple Traffic Light Simulation Program written in C that mimics the behavior of a real-world traffic light system. The program cycles through Yellow, Red, and Green lights<br>
+<h2>Objective<br>
 The primary goal is to simulate a traffic light system that cycles through the three standard states: Red, Green, and Yellow..
 
 
 <h3>Approach</h3>
 <ul>
 <li><p>Using a straightforward loop and state transitions. </p></li>
-<li>  Using '#include<unistd.h>'header file for sleep() function to control the duration of each light state.</li>
+<li>  Using #include<unistd.h>header file for sleep() function to control the duration of each light state.</li>
 <li>ANSI color code for better visualization</li>
  By implementing this approach, the program effectively models a basic traffic light system using simple programming constructs.
 
