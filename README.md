@@ -1,6 +1,7 @@
-<h1>Traffic Light Simulation </h1><br>
+<h1>Traffic Light Simulation </h1> 
 <img src ="https://github.com/MohitPaudel05/TrafficLIghtMImic/blob/main/TrafficLight.jpg" width =50% height=50%>
 This is a simple Traffic Light Simulation Program written in C that mimics the behavior of a real-world traffic light system. The program cycles through Yellow, Red, and Green lights<br>
+<h3>first sem Project</h3>
 <h2>Objective<br>
 The primary goal is to simulate a traffic light system that cycles through the three standard states: Red, Green, and Yellow..
 
